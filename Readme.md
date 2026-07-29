@@ -59,7 +59,11 @@ California-House-Price-Prediction/
 ```
 
 ---
+## Machine Learning Workflow
 
+<p align="center">
+<img src="images/workflow.png" width="900">
+</p>
 ## Dataset
 
 The project uses the **California Housing** dataset containing demographic, geographic, and housing-related information collected from California census block groups.
