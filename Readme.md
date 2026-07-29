@@ -136,10 +136,44 @@ The model was evaluated using:
 
 ---
 
+
 ## Results
 
-The developed Support Vector Regression model demonstrated reliable predictive performance for California house prices. Model evaluation using MAE, RMSE, and residual analysis indicated good generalisation while highlighting opportunities for further optimisation using advanced ensemble and deep learning approaches.
+### Correlation Heatmap
 
+<p align="center">
+<img src="results/Correlation_Heatmap.png" width="700">
+</p>
+
+### Dataset Statistics
+
+<p align="center">
+<img src="results/Dataset_Statistics.png" width="700">
+</p>
+
+### Median House Value Distribution
+
+<p align="center">
+<img src="results/Median_House_Value_Distribution.png" width="700">
+</p>
+
+### Feature Histograms
+
+<p align="center">
+<img src="results/Feature_Histograms.png" width="700">
+</p>
+
+### Residual Analysis
+
+<p align="center">
+<img src="results/Residual_Plot.png" width="700">
+</p>
+
+### Prediction Error
+
+<p align="center">
+<img src="results/Prediction_Error_SVR.png" width="700">
+</p>
 ---
 
 ## Installation
