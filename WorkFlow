@@ -1,0 +1,25 @@
+California Housing Dataset
+            │
+            ▼
+Data Cleaning
+            │
+            ▼
+Missing Value Imputation
+            │
+            ▼
+Feature Engineering
+            │
+            ▼
+Exploratory Data Analysis
+            │
+            ▼
+Feature Scaling
+            │
+            ▼
+Support Vector Regression
+            │
+            ▼
+Model Evaluation
+            │
+            ▼
+MAE • RMSE • Residual Analysis
